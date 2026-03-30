@@ -251,6 +251,7 @@ POST /api/voice-chat         # Voice interaction support
 
 ### **v3.0 Features (Planned)**
 - **Video Recording**: Interview session recording and playback
+- **Sandbox**: Ephemeral Docker containerisation 
 - **Multi-language**: Support for Java, JavaScript, C++, etc.
 - **Team Collaboration**: Interviewer dashboard and sharing
 - **Advanced Analytics**: Historical performance tracking
